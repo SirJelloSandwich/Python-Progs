@@ -19,6 +19,6 @@ M.search(None,'searchfor')
 #, or a group of non-contiguous ranges separated by commas ('1:3,6:9').
  #A range can contain an asterisk to indicate an infinite upper bound 
  #('3:*').
-
+#Mailbox??
 #What about M.check(),
 #Next do select,search, and fetch.
